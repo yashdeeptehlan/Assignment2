@@ -29,5 +29,5 @@ jobs:
         run: |
           npm install -g @aws-amplify/cli
           amplify pull
-          amplify configure --appid d1euyo548c7mzw 
+          amplify configure --appid d5vemzd5hswr0
           amplify publish
